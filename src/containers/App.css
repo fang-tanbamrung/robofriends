@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to left, lightgreen,lightblue);
+}
+
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    }
+
+.robofriends{
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 200;
+}
